@@ -1,1 +1,3 @@
 # vechicle-coupon-recommendation
+The objective is to analyze the factors that influence wheather a person will accept a coupon recommented to them in various driving scenarious.
+First loading the important libraries,basic eda process done ,visualization used,feaure selection done....

@@ -1,0 +1,20 @@
+destination,passanger,temperature,time,coupon,expiration,gender,age,maritalStatus,income,has_children,education,toCoupon_GEQ15min
+No Urgent Place,Alone,55,2PM,Restaurant(<20),1d,Female,21,Unmarried partner,$37500 - $49999,1,Some college - no degree,0
+No Urgent Place,Friend(s),80,10AM,Coffee House,2h,Female,21,Unmarried partner,$37500 - $49999,1,Some college - no degree,0
+No Urgent Place,Friend(s),80,10AM,Carry out & Take away,2h,Female,21,Unmarried partner,$37500 - $49999,1,Some college - no degree,1
+No Urgent Place,Friend(s),80,2PM,Coffee House,2h,Female,21,Unmarried partner,$37500 - $49999,1,Some college - no degree,1
+No Urgent Place,Friend(s),80,2PM,Coffee House,1d,Female,21,Unmarried partner,$37500 - $49999,1,Some college - no degree,1
+No Urgent Place,Friend(s),80,6PM,Restaurant(<20),2h,Female,21,Unmarried partner,$37500 - $49999,1,Some college - no degree,1
+No Urgent Place,Friend(s),55,2PM,Carry out & Take away,1d,Female,21,Unmarried partner,$37500 - $49999,1,Some college - no degree,1
+No Urgent Place,Kid(s),80,10AM,Restaurant(<20),2h,Female,21,Unmarried partner,$37500 - $49999,1,Some college - no degree,1
+No Urgent Place,Kid(s),80,10AM,Carry out & Take away,2h,Female,21,Unmarried partner,$37500 - $49999,1,Some college - no degree,1
+No Urgent Place,Kid(s),80,10AM,Bar,1d,Female,21,Unmarried partner,$37500 - $49999,1,Some college - no degree,1
+No Urgent Place,Kid(s),80,2PM,Restaurant(<20),1d,Female,21,Unmarried partner,$37500 - $49999,1,Some college - no degree,0
+No Urgent Place,Kid(s),55,2PM,Restaurant(<20),1d,Female,21,Unmarried partner,$37500 - $49999,1,Some college - no degree,1
+No Urgent Place,Kid(s),55,6PM,Coffee House,2h,Female,21,Unmarried partner,$37500 - $49999,1,Some college - no degree,1
+Home,Alone,55,6PM,Bar,1d,Female,21,Unmarried partner,$37500 - $49999,1,Some college - no degree,0
+Home,Alone,55,6PM,Restaurant(20-50),1d,Female,21,Unmarried partner,$37500 - $49999,1,Some college - no degree,1
+Home,Alone,80,6PM,Coffee House,2h,Female,21,Unmarried partner,$37500 - $49999,1,Some college - no degree,0
+Work,Alone,55,7AM,Coffee House,2h,Female,21,Unmarried partner,$37500 - $49999,1,Some college - no degree,1
+Work,Alone,55,7AM,Bar,1d,Female,21,Unmarried partner,$37500 - $49999,1,Some college - no degree,1
+Work,Alone,80,7AM,Restaurant(20-50),1d,Female,21,Unmarried partner,$37500 - $49999,1,Some college - no degree,1
